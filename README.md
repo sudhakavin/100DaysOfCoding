@@ -18,3 +18,4 @@ The program should print two numbers: the number of hours (between 0 and 23) and
 For example, if N = 3900, then 3900 seconds have passed since midnight. 
 Therefore, the time now is 1:05am. 
 So the program should print 1 65 - 1 full hour is passed since midnight, 65 full minutes passed since midnight.](Day9.md) 
+10. [Given two timestamps of the same day: a number of hours, minutes and seconds for both of the timestamps. The moment of the first timestamp happened before the moment of the second one. Calculate how many seconds passed between them.](Day10.md)

@@ -29,3 +29,5 @@ a year is a leap year if its number is exactly divisible by 4 and is not exactly
 a year is always a leap year if its number is exactly divisible by 400
 Warning. The words LEAP and COMMON should be printed all caps.](Day15.md)
 16. [Given a month - an integer from 1 to 12, print the number of days in it in the year 2017.](Day16.md)
+17. [Write a program that receives a number on the input.If the number is a multiple of 3, it prints "Jugs". 
+Otherwise, it prints the number.](Day17.md)

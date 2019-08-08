@@ -12,7 +12,9 @@ Given an integer, print "odd" if it's odd and print "even" otherwise.
 ```
 ## Code
 ```
+#Read an Integer:
 a = int(input())
+#Print a value is odd or even:
 if(a%2==0):
   print("even")
 else:

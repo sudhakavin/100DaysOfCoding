@@ -28,3 +28,4 @@ The rules in Gregorian calendar are as follows:
 a year is a leap year if its number is exactly divisible by 4 and is not exactly divisible by 100
 a year is always a leap year if its number is exactly divisible by 400
 Warning. The words LEAP and COMMON should be printed all caps.](Day15.md)
+16. [Given a month - an integer from 1 to 12, print the number of days in it in the year 2017.](Day16.md)

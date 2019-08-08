@@ -23,3 +23,8 @@ So the program should print 1 65 - 1 full hour is passed since midnight, 65 full
 12. [Given a three-digit number. Find the sum of its digits.](Day12.md)
 13. [Given an integer, print "odd" if it's odd and print "even" otherwise.](Day13.md)
 14. [Given three integers, print the least of them.](Day14.md)
+15. [Given the year number. You need to check if this year is a leap year. If it is, print LEAP, otherwise print COMMON.
+The rules in Gregorian calendar are as follows:
+a year is a leap year if its number is exactly divisible by 4 and is not exactly divisible by 100
+a year is always a leap year if its number is exactly divisible by 400
+Warning. The words LEAP and COMMON should be printed all caps.](Day15.md)

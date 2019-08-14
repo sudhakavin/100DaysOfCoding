@@ -45,4 +45,5 @@ that number subjected to the conditions below.It also should receive another val
 For every number in the given range, If the number is a multiple of 3, or it contains digit 3, it prints "Jugs".  If the number is a multiple of 5, or it contains digit 5, it prints "Mugs".If the number is a multiple of 7, or it contains digit 7, it prints "Pugs".If the number is a multiple of both 3 and 5, it prints "JugsMugs".also if number contains 3 and 5, it prints "JugsMugs". If the number is a multiple of both 3 and 7, it prints "JugsPugs". also if number contains 3 and 7, it prints "JugsPugs".If the number is a multiple of 3, 5 and 7, it prints "JugsMugsPugs".also if number contains 3, 5 and 7, it prints "JugsMugsPugs".Otherwise, it prints the number.
 REVERSE REQUIREMENT:
 If the boolean 'rev' is True (or 1), then reverse the order of printing."PugsJugsMugs" for multiples of 3, 5 and 7."PugsMugs" for multiple of 3 and 7."MugsJugs" for multiple of 3 and 5 ."PugsJugs" for multiple of 5 and 7.](Day23.md)
-
+24. [In mathematics, the factorial of an integer n, denoted by n! is the following product: n! = 1 × 2 × … × n
+For the given integer n calculate the value: 1! + 2! + 3! + ... + n!](Day24.md)

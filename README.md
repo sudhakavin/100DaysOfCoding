@@ -49,3 +49,5 @@ If the boolean 'rev' is True (or 1), then reverse the order of printing."PugsJug
 For the given integer n calculate the value: 1! + 2! + 3! + ... + n!](Day24.md)
 25. [For the given integer N calculate the following sum: 1³ + 2³ + ... + N³](Day25.md)
 26. [N numbers are given in the input. Read them and print their sum.The first line of input contains the integer N, which is the number of integers to follow. Each of the next N lines contains one integer. Print the sum of these N integers.](Day26.md)
+27. [For given integer n ≤ 9 print a ladder of n steps. The k-th step consists of the integers from 1 to k without spaces between them.
+To do that, you can use the sep and end arguments for the function print().](Day27.md)

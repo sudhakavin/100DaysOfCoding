@@ -48,3 +48,4 @@ If the boolean 'rev' is True (or 1), then reverse the order of printing."PugsJug
 24. [In mathematics, the factorial of an integer n, denoted by n! is the following product: n! = 1 × 2 × … × n
 For the given integer n calculate the value: 1! + 2! + 3! + ... + n!](Day24.md)
 25. [For the given integer N calculate the following sum: 1³ + 2³ + ... + N³](Day25.md)
+26. [N numbers are given in the input. Read them and print their sum.The first line of input contains the integer N, which is the number of integers to follow. Each of the next N lines contains one integer. Print the sum of these N integers.](Day26.md)

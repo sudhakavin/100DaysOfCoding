@@ -56,3 +56,4 @@ To do that, you can use the sep and end arguments for the function print().](Day
 30. [JugsMugsPugs Special](Day30.md)
 31. [Spy Plane](Day31.md)
 32. [String Slices](Day32.md)
+33. [Given a string in which the letter h occurs at least twice. Remove from that string the first and the last occurrence of the letter h, as well as all the characters between them.](Day33.md)

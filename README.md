@@ -55,3 +55,4 @@ To do that, you can use the sep and end arguments for the function print().](Day
 29. [Given a sequence of distinct non-negative integers, where each number is written in a separate line. The sequence ends with 0. Print the second largest element in this sequence. It is guaranteed that the sequence has at least two elements.](Day29.md)
 30. [JugsMugsPugs Special](Day30.md)
 31. [Spy Plane](Day31.md)
+32. [String Slices](Day32.md)

@@ -63,3 +63,5 @@ To do that, you can use the sep and end arguments for the function print().](Day
 37. [Given a list of numbers, find and print all its elements with even indices (i.e. A[0],A[2],A[4], ...).](Day37.md)
 38. [Given a list of numbers, print all its even elements. Use a for-loop that iterates over the list itself and not over its indices. That is, don't use range()](Day38.md)
 39. [Given a list of numbers, find and print all its elements that are greater than their left neighbor.](Day39.md)
+40. [Given a list of numbers, determine and print the number of elements that are greater than both of their neighbors.
+The first and the last items of the list shouldn't be considered because they don't have two neighbors.](Day40.md)

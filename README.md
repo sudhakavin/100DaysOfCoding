@@ -60,3 +60,4 @@ To do that, you can use the sep and end arguments for the function print().](Day
 34. [Given a string in which the letter h occurs at least twice, reverse the sequence of characters enclosed between the first and last occurrences of it.](Day34.md)
 35. [Given a string in which the letter h occurs at least twice, replace every occurrence of the letter h by the letter H, except for the first and the last ones.](Day35.md)
 36. [Given a list of non-zero integers, find and print the first adjacent pair of elements that have the same sign. If there is no such pair, print 0.](Day36.md)
+37. [Given a list of numbers, find and print all its elements with even indices (i.e. A[0],A[2],A[4], ...).](Day37.md)

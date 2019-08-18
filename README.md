@@ -67,3 +67,4 @@ To do that, you can use the sep and end arguments for the function print().](Day
 The first and the last items of the list shouldn't be considered because they don't have two neighbors.](Day40.md)
 41. [Given a list of numbers with all elements sorted in ascending order, determine and
 print the number of distinct elements in it.](Day41.md)
+42. [Given a list of numbers, swap adjacent elements in each pair (swap A[0] with A[1], A[2] with A[3], etc.). Print the resulting list. If a list has an odd number of elements, leave the last element intact.](Day42.md)

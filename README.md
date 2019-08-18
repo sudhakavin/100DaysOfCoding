@@ -69,3 +69,4 @@ The first and the last items of the list shouldn't be considered because they do
 print the number of distinct elements in it.](Day41.md)
 42. [Given a list of numbers, swap adjacent elements in each pair (swap A[0] with A[1], A[2] with A[3], etc.). Print the resulting list. If a list has an odd number of elements, leave the last element intact.](Day42.md)
 43. [Given a list of distinct numbers, swap the minimum and the maximum and print the resulting list.](Day43.md)
+44. [Given a list of numbers, find and print the elements that appear in it only once. Such elements should be printed in the order in which they occur in the original list.](Day44.md)
